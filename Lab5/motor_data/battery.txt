@@ -1,0 +1,3 @@
+main_recordings_voltage_V = 12.3
+main_recordings_voltage_source = student_reported_constant
+repeatability_recordings_voltage_source = original_logged_column_6
