@@ -1,3 +1,3 @@
-main_recordings_voltage_V = 12.3
-main_recordings_voltage_source = student_reported_constant
-repeatability_recordings_voltage_source = original_logged_column_6
+I checked the battery voltage on the TRIK robot’s display before and after running the QRS programs for the main experiments. The display showed 12.3 V both before and after the runs.
+
+For the main recordings, 12.3 V is used as the battery-voltage estimate when converting PWM commands to motor voltage. The older supplementary repeatability recordings use the battery voltages logged in their original data files.
